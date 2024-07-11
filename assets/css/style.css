@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    border: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+section {
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.container {
+    max-width: 1140px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.head-1 {
+    margin-top: 170px;
+    font-family: Segoe UI;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 29px;
+    text-align: center;
+    color: #737B9A;
+}
+
+.head-2 {
+    font-family: Yellowtail;
+    font-size: 77.54px;
+    font-weight: 400;
+    line-height: 105.67px;
+    text-align: center;
+}
+
+.head-3 {
+    font-family: Segoe UI;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 29px;
+    text-align: center;
+    color: #737B9A;
+}
+
+.img-1 {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+
+.img-2 {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+}
+
+.img-3 {
+    position: absolute;
+    bottom: 0%;
+    left: 0%;
+}
+
+.img-4 {
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+}
+
+.img-5 {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    margin-top: 16px;
+    margin-right: 16px;
+}
+
+.btn {
+    padding: 8px 15px 8px 15px;
+    border-radius: 74px 74px 74px 74px;
+    border: 2px solid #4D73F8;
+    color: white;
+    background: #4D73F8;
+    margin-top: 25px;
+}
